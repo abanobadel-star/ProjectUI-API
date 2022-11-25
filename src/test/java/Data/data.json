@@ -1,0 +1,18 @@
+
+[
+  {
+    "firstname" : "abanob",
+    "lastname" : "adel" ,
+    "email" : "llp11111@gmail.com",
+    "password" : "123456789",
+    "address": "120 Street",
+    "city": "october",
+    "state":"California",
+    "zipcode": "32845",
+    "country": "United States",
+    "mobile": "01203568753",
+    "alias":"anything",
+    "size": "M"
+  }
+ 
+]
